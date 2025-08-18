@@ -14,7 +14,8 @@ Welcome to my GitHub! I’m passionate about building smart systems, modern web 
 
 ---
 
-[![## 💻Technologies I knows](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3&theme=dark)](https://skillicons.dev)
+## 💻Technologies I knows
+[![## 💻Technologies I knows](https://skillicons.dev/icons?i=anaconda,arduino,c,cpp,react,html,css,discord,figma,mongodb,mysql,git,github,vscode,vite,java,spring,js,py,kotlin,nodejs,threejs,npm,ai,ps&theme=dark)](https://skillicons.dev)
 
 
 ---
