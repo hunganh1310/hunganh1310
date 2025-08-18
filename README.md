@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Hung Anh!
 
-<!--
-**hunganh1310/hunganh1310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Intelligent Embedded & Full-stack Developer | 3D Front-end Enthusiast | AI/ML/CV Researcher
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I’m passionate about building smart systems, modern web apps, and innovative 3D experiences. My work blends software engineering, AI, and hardware to create impactful solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Professional Roles
+- **AIOT Developer** (Intelligent Embedded Developer)
+- **Full-stack Software/Website Developer**
+- **3D Front-end Developer**
+- **AI/ML/CV Researcher**
+
+---
+
+[![## 💻Technologies I knows](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3&theme=dark)](https://skillicons.dev)
+
+
+---
+
+## 🌟 Featured Project
+
+### [AIOT Health Monitoring and Stroke Predicting System](https://github.com/hunganh1310/-AIOT-Health-Monitoring-and-Stroke-Predicting-System)
+> An intelligent embedded system for real-time health monitoring and stroke prediction, integrating IoT sensors, data analytics, and AI-based prediction models.
+
+- Embedded system + AI for health
+- Real-time monitoring
+- Predictive analytics for stroke risk
+- Full-stack architecture: hardware, backend, frontend
+
+---
+
+## 🔗 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/h%C3%B9ng-anh-abbb76263/)
+
+---
+
+_Always learning, always building. Let’s connect and create something amazing!_
