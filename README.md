@@ -15,7 +15,8 @@ Welcome to my GitHub! I’m passionate about building smart systems, modern web 
 ---
 
 ## 💻Technologies I knows
-[![## 💻Technologies I knows](https://skillicons.dev/icons?i=anaconda,arduino,c,cpp,react,html,css,discord,figma,mongodb,mysql,git,github,vscode,vite,java,spring,js,py,kotlin,nodejs,threejs,npm,ai,ps&theme=dark)](https://skillicons.dev)
+#IOT - Embedded Sytems
+[![IOT](https://skillicons.dev/icons?i=arduino,c,cpp,react,html,css,tailwind,threejs,nodejs,npm,vite,webpack,js,java,spring,mongodb,mysql,postgres,postman,py,anacoda,sklearn,tensorflow,kotlin,androidstudio,git,github,vscode,bash,linux,ubuntu,discord,ai,ps,figma&theme=dark)](https://skillicons.dev)
 
 
 ---
