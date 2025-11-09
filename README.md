@@ -10,7 +10,7 @@ Welcome to my GitHub! I’m passionate about building smart systems that promote
 - **Embedded Software Engineer**
 - **Full-stack Developer**
 - **AI Engineer**
-- **AI/ML/CV Researcher**
+- **AI Researcher**
 
 ---
 
