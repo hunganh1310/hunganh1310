@@ -22,7 +22,7 @@ Welcome to my GitHub! I’m passionate about building smart systems that promote
 
 ## 🌟 Featured Project
 
-### [AIOT Health Monitoring and Stroke Predicting System](https://github.com/hunganh1310/-AIOT-Health-Monitoring-and-Stroke-Predicting-System)
+### [Health monitoring and AF detection System](https://github.com/hunganh1310/health-monitoring-and-AF-detection)
 > An intelligent embedded system for real-time health monitoring and stroke prediction, integrating IoT sensors, data analytics, and AI-based prediction models.
 
 - Embedded system + AI for health
