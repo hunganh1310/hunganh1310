@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Hung Anh!
 
-### 🚀 Innovation Engineer
-
 Welcome to my GitHub! I’m passionate about building smart systems that promote connectivity and make life easier. My work blends software engineering, AI, and hardware to create impactful solutions.
 
 ---
