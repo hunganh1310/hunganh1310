@@ -20,7 +20,7 @@ Welcome to my GitHub! I’m passionate about building smart systems that promote
 ---
 
 ## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/h%C3%B9ng-anh-abbb76263/)
+- [LinkedIn](https://www.linkedin.com/in/hung-anh-to-abbb76263/)
 
 ---
 
